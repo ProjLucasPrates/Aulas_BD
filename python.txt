@@ -1,7 +1,0 @@
-Comparar com as tecnoligias do mercado
-
-responder o motivo de usar essa e não java e GO
-
-
-1- Em 2021, o Python se manteve no topo, fazendo com que desenvolvedores que tiverem conhecimento dessa linguagem de programação sejam visados no mercado, e não há sinais que o cenário mude nos próximos anos — o que torna ela uma importante habilidade para quem quer se posicionar bem no setor.
-Facil de aprender e ensinar, e contando com suporte de inúmeras frameworks, ele tambem está crescendo nos últimos anos por conta de seus usos nas mais diversas aplicações. Além disso, as suas diversas bibliotecas à proporcionam elas serem capazes de ser usadas para criacão de softwares muito espe                  
